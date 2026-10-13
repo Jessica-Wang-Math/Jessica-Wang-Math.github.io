@@ -31,7 +31,10 @@ h3 {
 p { margin: 0 0 14px; }
 ul { margin: 0 0 16px; padding-left: 24px; }
 li { margin-bottom: 4px; }
-a { color: #000; overflow-wrap: anywhere; }
+a {
+  color: #c21875;
+  overflow-wrap: anywhere;
+}
 
 @media (max-width: 600px) {
   body { margin: 24px auto; }
